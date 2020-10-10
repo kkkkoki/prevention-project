@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "prevention-project"
+  },
+  "targets": {
+    "prevention-project": {
+      "hosting": {
+        "prevention-project": [
+          "prevention-project"
+        ]
+      }
+    }
+  }
+}
