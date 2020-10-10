@@ -90,3 +90,15 @@ body {
     line-height: 1.5;
   }
 }
+
+header {
+  height: calc((80 / 1280) * 100vw);
+  padding: 0 calc((25 / 1280) * 100vw);
+  max-height: 80px;
+  background: linear-gradient(
+    90deg,
+    rgba(254, 248, 194, 0.5),
+    rgba(226, 251, 255, 0.5)
+  );
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
